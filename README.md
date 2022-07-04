@@ -1,3 +1,7 @@
+YourCollectible: 0xE850A92D01476d95d5c26b9A5Fe917a82D6995fc
+
+Surge: attractive-curtain.surge.sh
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
